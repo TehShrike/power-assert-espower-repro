@@ -1,0 +1,16 @@
+{
+  "name": "power-assert-espower-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL",
+  "devDependencies": {
+    "espower-loader": "1.2.2",
+    "power-assert": "1.4.2"
+  }
+}
